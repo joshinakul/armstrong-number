@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1498598627 source:f:\codeblocks\c programs\armstrong no.\main.cpp
+	<iostream>
+	<cmath>
+
+1498598627 source:f:\codeblocks\c programs\armstrong no\main.cpp
+	<iostream>
+	<cmath>
+
